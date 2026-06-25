@@ -1,0 +1,9 @@
+{
+  "novels": [
+    {
+      "id": "heavenly-demon-broadcast",
+      "folder": "heavenly-demon-broadcast",
+      "config": "heavenly-demon-broadcast/title.json"
+    }
+  ]
+}

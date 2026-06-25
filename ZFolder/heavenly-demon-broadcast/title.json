@@ -1,0 +1,96 @@
+{
+  "id": "heavenly-demon-broadcast",
+  "title": "The Heavenly Demon's Broadcast From the Demon Realm",
+  "titleUk": "Трансляція Небесного Демона з Демонічного Царства",
+  "author": "",
+  "translator": "Claude",
+  "cover": "cover.webp",
+  "description": "",
+  "language": "uk",
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "number": 1,
+      "title": "Небесний Демон Чі Юлан",
+      "file": "chapter1_translation.md"
+    },
+    {
+      "id": "chapter-2",
+      "number": 2,
+      "title": "Перша трансляція",
+      "file": "chapter2_translation.md"
+    },
+    {
+      "id": "chapter-3",
+      "number": 3,
+      "title": "Небесна Діва",
+      "file": "chapter3_translation.md"
+    },
+    {
+      "id": "chapter-4",
+      "number": 4,
+      "title": "Вимірювання бойової потужності",
+      "file": "chapter4_translation.md"
+    },
+    {
+      "id": "chapter-5",
+      "number": 5,
+      "title": "Дебют новачка",
+      "file": "chapter5_translation.md"
+    },
+    {
+      "id": "chapter-6",
+      "number": 6,
+      "title": "Трансляція на природі",
+      "file": "chapter6_translation.md"
+    },
+    {
+      "id": "chapter-7",
+      "number": 7,
+      "title": "Демонічне Царство",
+      "file": "chapter7_translation.md"
+    },
+    {
+      "id": "chapter-8",
+      "number": 8,
+      "title": "Тигр Хебею",
+      "file": "chapter8_translation.md"
+    },
+    {
+      "id": "chapter-9",
+      "number": 9,
+      "title": "Сміттяр Пан Деокчо",
+      "file": "chapter9_translation.md"
+    },
+    {
+      "id": "chapter-10",
+      "number": 10,
+      "title": "Вічний Небесний Демон, Усі Демони Схиляйтесь",
+      "file": "chapter10_translation.md"
+    },
+    {
+      "id": "chapter-11",
+      "number": 11,
+      "title": "Секта Місячного Сяйва",
+      "file": "chapter11_translation.md"
+    },
+    {
+      "id": "chapter-12",
+      "number": 12,
+      "title": "Підвищення до Золота",
+      "file": "chapter12_translation.md"
+    },
+    {
+      "id": "chapter-13",
+      "number": 13,
+      "title": "Меч Кривавоквіту Нам Дусік",
+      "file": "chapter13_translation.md"
+    },
+    {
+      "id": "chapter-14",
+      "number": 14,
+      "title": "Очільник Бойового Альянсу",
+      "file": "chapter14_translation.md"
+    }
+  ]
+}
