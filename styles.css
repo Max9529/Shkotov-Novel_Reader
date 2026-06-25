@@ -525,6 +525,18 @@ a {
   color: #cbb4ff !important;
 }
 
+.title-hero--heavenly-demon .title-hero__meta-info {
+  color: #d1c2ec !important;
+}
+
+.title-hero--heavenly-demon .title-hero__link {
+  color: #cbb4ff !important;
+}
+
+.title-hero--heavenly-demon .title-hero__link:hover {
+  color: #ffffff !important;
+}
+
 .title-hero--heavenly-demon .title-hero__description {
   color: #d1c2ec !important;
 }
@@ -605,6 +617,22 @@ a {
   color: var(--color-text-secondary);
   font-style: italic;
   margin-top: -4px;
+}
+
+.title-hero__meta-info {
+  font-size: 14px;
+  color: var(--color-text-secondary);
+  line-height: 1.4;
+}
+
+.title-hero__link {
+  color: var(--color-accent);
+  text-decoration: underline;
+  transition: color var(--transition-fast);
+}
+
+.title-hero__link:hover {
+  color: var(--color-accent-hover);
 }
 
 .title-hero__description {
